@@ -76,7 +76,7 @@ label{
         font-size: 1rem !important;
     }
     .back-btn{
-        margin-top: 1rem;
+        margin-top: 5rem;
         margin-left: 14rem;
         height: 2.5rem;
     }
@@ -87,7 +87,7 @@ label{
         padding-right: 0.2rem;
     }
     .delete-btn{
-        margin-left: 1px;
+        margin-left: 5px;
         width: 10rem;
         padding-left: 0.2rem;
         padding-right: 0.2rem;
